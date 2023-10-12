@@ -20,7 +20,7 @@
 
 ### Install Python dependencies:
 
-Create virtual enviroment:
+Create virtual environment:
 
 ```bash
 virtualenv venv
